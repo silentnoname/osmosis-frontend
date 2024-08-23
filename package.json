@@ -1,6 +1,6 @@
 {
-  "name": "osmosis-frontend",
-  "version": "0.0.1",
+  "name": "@silent/osmosis-frontend",
+  "version": "wishlist-0.0.1",
   "description": "",
   "private": true,
   "engines": {
